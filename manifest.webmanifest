@@ -1,0 +1,16 @@
+{
+ "name": "NVK Wellness Blog",
+ "short_name": "NVK Wellness",
+ "description": "Wellness for the Whole Life",
+ "start_url": "./index.html",
+ "display": "standalone",
+ "theme_color": "#10264a",
+ "background_color": "#fcfaf6",
+ "icons": [
+  {
+   "src": "assets/images/logo/icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
